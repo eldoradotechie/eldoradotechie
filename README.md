@@ -1,6 +1,6 @@
 <img src="images/Github (3).png" >
 
-# <img src="animated/hands.gif" height="40" /> ***Hey, I'm Elodrado Techchie*** <img src="animated/javascript.gif" height="40" /> <img src="animated/node.gif" height="40" /> <img src="svgs/logo-typescript.svg" height="40" /> <img src="animated/go.gif" height="40" />  <img src="images/react.png" style="height: 40px;" />
+# <img src="animated/hands.gif" height="40" /> ***Hey, I'm Eldorado Techie*** <img src="animated/javascript.gif" height="40" /> <img src="animated/node.gif" height="40" /> <img src="svgs/logo-typescript.svg" height="40" /> <img src="animated/go.gif" height="40" />  <img src="images/react.png" style="height: 40px;" />
 
 ## 🔗 Links
 
